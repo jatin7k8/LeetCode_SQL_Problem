@@ -1,5 +1,13 @@
-# LeetCode_SQL_Problem
-### 50 Advanced SQL 50  Days Challenge
+<div align="center">
+  <img src="https://github.com/jatin7k8/LeetCode_SQL_Problem/assets/142636730/8965ff46-52f7-4b1e-a9d6-3d77ae093ac2" alt="Image">
+</div>
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Leetcode SQL Problem &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50px" /> &nbsp; 50 Advanced SQL 50 Days Challenge &nbsp;
+</div>
+
 
 | Number| Problem  | Level | Type | Solutions
 | :---:| --- | :---: | :---: | :---: |
