@@ -20,6 +20,14 @@
 | 7 | [1398. Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/highest-grade-for-each-student/). | Medium | Select| [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/6.1112.%20Highest%20Grade%20For%20Each%20Student.sql)|
 | 8 | [1501. Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/). | Medium | Sorting and Grouping | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/8.1501.%20Countries%20You%20Can%20Safely%20Invest%20In.sql)|
 | 9 | [1699. Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/). | Medium | Basic Aggregate Functions | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/9.1699.%20Number%20of%20Calls%20Between%20Two%20Persons.sql)|
+| 10 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/). | Medium | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/10.184.%20Department%20Highest%20Salary.sql)|
+| 11 | [1549. The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/). | Medium | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/11.1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product.sql)|
+| 12 | [1532. The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/). | Medium | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/12.1532.%20The%20Most%20Recent%20Three%20Orders.sql)|
+| 13 | [1831. Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/). | Medium | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/13.1831.%20Maximum%20Transaction%20Each%20Day.sql)|
+| 14 | [1264. Page Recommendations](https://leetcode.com/problems/page-recommendations/). | Medium | Advanced Select and Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/14.1264.%20Page%20Recommendations.sql)|
+
+
+
 
 
 
