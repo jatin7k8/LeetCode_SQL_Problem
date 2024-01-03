@@ -19,6 +19,13 @@
 | 6 | [1112. Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/). | Medium | Select| [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/6.1112.%20Highest%20Grade%20For%20Each%20Student.sql)|
 | 7 | [1398. Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/highest-grade-for-each-student/). | Medium | Select| [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/6.1112.%20Highest%20Grade%20For%20Each%20Student.sql)|
 | 8 | [1501. Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/). | Medium | Sorting and Grouping | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/8.1501.%20Countries%20You%20Can%20Safely%20Invest%20In.sql)|
+| 9 | [1699. Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/). | Medium | Basic Aggregate Functions | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/9.1699.%20Number%20of%20Calls%20Between%20Two%20Persons.sql)|
+
+
+
+
+
+
 
 
 
