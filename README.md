@@ -30,6 +30,7 @@
 | 17 | [1350. Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/). | Easy | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/17.1350.%20Students%20With%20Invalid%20Departments.sql)|
 | 18 | [1747. Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/). | Medium | Advanced Select and Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/18.1747.%20Leetflex%20Banned%20Accounts.sql)|
 | 19 | [1821. Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/19.1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year.sql)|
+| 20 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/20.183.%20Customers%20Who%20Never%20Order.sql)|
 
 
 
