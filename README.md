@@ -25,11 +25,11 @@
 | 12 | [1532. The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/). | Medium | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/12.1532.%20The%20Most%20Recent%20Three%20Orders.sql)|
 | 13 | [1831. Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/). | Medium | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/13.1831.%20Maximum%20Transaction%20Each%20Day.sql)|
 | 14 | [1264. Page Recommendations](https://leetcode.com/problems/page-recommendations/). | Medium | Advanced Select and Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/14.1264.%20Page%20Recommendations.sql)|
-
-
-
-
-
+| 15 | [512. Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/). | Easy | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/15.512.%20Game%20Play%20Analysis%20II.sql)|
+| 16 | [1303. Find the Team Size](https://leetcode.com/problems/find-the-team-size/). | Easy | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/16.1303.%20Find%20the%20Team%20Size.sql)|
+| 17 | [1350. Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/). | Easy | Subqueries | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/17.1350.%20Students%20With%20Invalid%20Departments.sql)|
+| 18 | [1747. Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/). | Medium | Advanced Select and Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/18.1747.%20Leetflex%20Banned%20Accounts.sql)|
+| 19 | [1821. Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/19.1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year.sql)|
 
 
 
