@@ -32,6 +32,7 @@
 | 19 | [1821. Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/19.1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year.sql)|
 | 20 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/20.183.%20Customers%20Who%20Never%20Order.sql)|
 | 21 | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/21.1873.%20Calculate%20Special%20Bonus.sql)|
+| 22 | [1212. Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/). | Medium | Basic Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/22.1212.%20Team%20Scores%20in%20Football%20Tournament.sql)|
 
 
 
