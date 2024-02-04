@@ -34,6 +34,7 @@
 | 21 | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/). | Easy | Select | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/21.1873.%20Calculate%20Special%20Bonus.sql)|
 | 22 | [1212. Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/). | Medium | Basic Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/22.1212.%20Team%20Scores%20in%20Football%20Tournament.sql)|
 | 23 | [607. Sales Person](https://leetcode.com/problems/sales-person/). | Easy | Basic Joins | [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/23.607.%20Sales%20Person.sql)|
+| 24 | [Most Profitable Companies](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=) . | Medium | Agg | [Link]
 
 
 
